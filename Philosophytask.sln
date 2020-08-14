@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philosophytask", "Philosophytask\Philosophytask.csproj", "{5426F9FF-DD53-440A-8AB9-94DA23A917DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilosophTask_2.0", "PhilosophTask_2.0\PhilosophTask_2.0.csproj", "{3888F9B4-903E-44E1-9085-3562A93A5787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philosoph_3.0(Semaphores)", "Philosoph_3.0(Semaphores)\Philosoph_3.0(Semaphores).csproj", "{0EEE3CDA-655E-483F-BF0F-499B166A6367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philosoph_4.0", "Philosoph4.0\Philosoph_4.0.csproj", "{2D4834A3-02F7-4F09-9277-4BA334E4D1F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5426F9FF-DD53-440A-8AB9-94DA23A917DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5426F9FF-DD53-440A-8AB9-94DA23A917DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5426F9FF-DD53-440A-8AB9-94DA23A917DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5426F9FF-DD53-440A-8AB9-94DA23A917DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3888F9B4-903E-44E1-9085-3562A93A5787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3888F9B4-903E-44E1-9085-3562A93A5787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3888F9B4-903E-44E1-9085-3562A93A5787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3888F9B4-903E-44E1-9085-3562A93A5787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEE3CDA-655E-483F-BF0F-499B166A6367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEE3CDA-655E-483F-BF0F-499B166A6367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEE3CDA-655E-483F-BF0F-499B166A6367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEE3CDA-655E-483F-BF0F-499B166A6367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4834A3-02F7-4F09-9277-4BA334E4D1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4834A3-02F7-4F09-9277-4BA334E4D1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4834A3-02F7-4F09-9277-4BA334E4D1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4834A3-02F7-4F09-9277-4BA334E4D1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3484C501-2E9E-44F3-BEA9-EA479740D264}
+	EndGlobalSection
+EndGlobal
